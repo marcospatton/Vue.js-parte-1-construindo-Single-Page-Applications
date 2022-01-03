@@ -31,3 +31,6 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 <li>como a renderização de um template é feita
 <li>data binding unidirecional através de interpolação
 <li>o mecanismo de live reloading
+<li>data binding unidirecional em atributos através da diretiva v-bind
+<li>atalho para v-bind
+<li>a diretiva v-for
